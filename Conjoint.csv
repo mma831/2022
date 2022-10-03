@@ -1,0 +1,3205 @@
+RespondantID,Brand,Cores,RAM,HardDrive,DSize,DQuality,TouchScreen,Rating
+1,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+1,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+1,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+1,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+1,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+1,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+1,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+1,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+1,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+2,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+2,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+2,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+2,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+2,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+2,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+2,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+2,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+2,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,5
+3,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+3,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+3,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+3,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+3,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+3,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+3,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+3,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+3,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+4,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+4,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+4,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+4,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+4,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+4,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+4,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+4,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+4,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+5,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+5,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+5,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+5,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+5,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+5,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+5,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+5,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+5,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+6,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+6,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+6,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+6,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+6,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+6,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+6,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+6,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+6,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+7,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+7,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+7,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+7,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+7,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+7,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+7,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+7,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+7,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+8,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+8,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+8,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+8,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+8,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+8,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+8,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+8,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+8,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+9,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+9,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+9,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+9,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+9,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+9,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+9,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+9,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+9,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+10,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+10,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+10,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+10,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+10,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+10,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+10,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,5
+10,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+10,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+11,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+11,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+11,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+11,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+11,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+11,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+11,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+11,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+11,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+12,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+12,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+12,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+12,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+12,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,4
+12,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+12,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+12,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+12,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+13,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+13,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+13,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+13,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+13,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+13,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+13,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+13,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+13,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+14,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+14,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+14,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+14,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+14,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+14,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+14,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+14,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+14,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+15,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+15,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+15,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+15,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+15,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+15,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+15,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+15,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+15,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+16,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+16,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+16,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+16,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+16,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+16,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+16,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+16,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+16,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+17,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+17,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+17,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+17,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+17,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+17,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+17,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+17,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+17,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+18,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+18,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+18,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+18,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+18,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+18,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+18,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+18,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+18,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+19,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+19,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+19,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+19,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+19,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+19,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+19,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+19,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+19,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+20,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+20,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+20,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+20,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+20,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+20,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+20,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+20,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+20,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+21,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+21,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+21,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+21,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+21,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+21,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,3
+21,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+21,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+21,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+22,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+22,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+22,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+22,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+22,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+22,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,7
+22,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,2
+22,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+22,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+23,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+23,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,6
+23,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+23,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+23,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+23,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+23,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+23,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+23,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+24,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+24,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+24,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+24,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+24,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+24,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+24,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+24,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+24,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+25,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+25,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+25,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+25,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+25,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+25,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+25,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+25,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+25,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+26,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+26,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+26,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+26,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+26,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+26,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+26,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+26,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+26,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+27,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+27,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+27,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+27,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+27,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+27,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+27,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+27,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+27,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+28,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+28,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+28,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,6
+28,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+28,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+28,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+28,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+28,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+28,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+29,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+29,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+29,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+29,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+29,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+29,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+29,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+29,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+29,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+30,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+30,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+30,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+30,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+30,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+30,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+30,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+30,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+30,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+31,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+31,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+31,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+31,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+31,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+31,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+31,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+31,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+31,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+32,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+32,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+32,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+32,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+32,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+32,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+32,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+32,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+32,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+33,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+33,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+33,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+33,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+33,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+33,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+33,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+33,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+33,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+34,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+34,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+34,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+34,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+34,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+34,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+34,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+34,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+34,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+35,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+35,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+35,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+35,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+35,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+35,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+35,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+35,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+35,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+36,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+36,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+36,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+36,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+36,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+36,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+36,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+36,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+36,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+37,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+37,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+37,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+37,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+37,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+37,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+37,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+37,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+37,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+38,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+38,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+38,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+38,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+38,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+38,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+38,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+38,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+38,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+39,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,4
+39,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+39,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+39,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+39,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+39,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+39,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+39,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+39,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+40,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+40,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+40,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+40,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+40,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+40,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+40,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+40,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+40,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+41,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+41,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+41,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+41,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+41,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,4
+41,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+41,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+41,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+41,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+42,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+42,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+42,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+42,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+42,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+42,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+42,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+42,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+42,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+43,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+43,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+43,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+43,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+43,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+43,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+43,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+43,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+43,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+44,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+44,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+44,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+44,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+44,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+44,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+44,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+44,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+44,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+45,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+45,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+45,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+45,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+45,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+45,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,4
+45,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+45,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+45,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+46,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+46,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+46,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+46,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+46,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+46,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+46,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+46,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+46,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+47,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+47,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+47,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+47,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+47,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+47,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+47,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+47,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+47,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+48,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+48,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+48,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+48,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+48,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+48,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+48,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+48,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+48,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+49,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+49,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+49,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+49,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+49,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+49,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+49,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+49,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+49,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+50,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+50,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+50,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+50,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+50,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+50,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+50,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+50,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+50,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+51,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,5
+51,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+51,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+51,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+51,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+51,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+51,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+51,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+51,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+52,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+52,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+52,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+52,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+52,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+52,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+52,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+52,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+52,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+53,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+53,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+53,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+53,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+53,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+53,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+53,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+53,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+53,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+54,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+54,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+54,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+54,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+54,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+54,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+54,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+54,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+54,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+55,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+55,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+55,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+55,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+55,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+55,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+55,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+55,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+55,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+56,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+56,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+56,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+56,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+56,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+56,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+56,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+56,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+56,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+57,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+57,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+57,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+57,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+57,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+57,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+57,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+57,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+57,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+58,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+58,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+58,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+58,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+58,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+58,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+58,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+58,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+58,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+59,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+59,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+59,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+59,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+59,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+59,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+59,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+59,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+59,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+60,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+60,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+60,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+60,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+60,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+60,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+60,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+60,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+60,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+61,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+61,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+61,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+61,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+61,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+61,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+61,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+61,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,4
+61,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+62,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+62,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+62,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+62,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+62,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+62,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+62,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+62,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+62,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+63,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+63,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+63,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+63,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+63,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+63,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+63,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+63,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+63,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+64,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+64,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+64,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+64,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+64,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+64,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+64,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+64,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+64,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+65,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+65,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+65,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+65,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+65,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,2
+65,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+65,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+65,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+65,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+66,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+66,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+66,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+66,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+66,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+66,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+66,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+66,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+66,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+67,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+67,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+67,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+67,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+67,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,6
+67,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+67,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+67,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+67,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+68,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+68,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+68,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+68,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+68,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+68,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+68,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+68,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+68,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+69,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+69,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+69,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+69,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+69,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+69,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+69,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+69,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+69,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+70,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+70,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+70,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+70,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+70,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+70,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+70,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+70,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+70,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+71,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+71,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+71,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+71,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+71,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+71,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+71,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+71,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+71,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+72,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,5
+72,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+72,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+72,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+72,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+72,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+72,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+72,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+72,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+73,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+73,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+73,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+73,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+73,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+73,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+73,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+73,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+73,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+74,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+74,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+74,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+74,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+74,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+74,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+74,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+74,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+74,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+75,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+75,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+75,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+75,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+75,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+75,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+75,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+75,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+75,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+76,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+76,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+76,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+76,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,3
+76,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+76,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+76,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+76,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+76,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+77,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+77,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+77,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+77,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+77,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+77,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,5
+77,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+77,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+77,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+78,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+78,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+78,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+78,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+78,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+78,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+78,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+78,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+78,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+79,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+79,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+79,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+79,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+79,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+79,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+79,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+79,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+79,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+80,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+80,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+80,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+80,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+80,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+80,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+80,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+80,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+80,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+81,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+81,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+81,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+81,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+81,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+81,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+81,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+81,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+81,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+82,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+82,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+82,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+82,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+82,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+82,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+82,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+82,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+82,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+83,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+83,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+83,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+83,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+83,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+83,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+83,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+83,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+83,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+84,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+84,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+84,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+84,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+84,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+84,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+84,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+84,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+84,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+85,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+85,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+85,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+85,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+85,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+85,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+85,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+85,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+85,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,6
+86,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+86,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+86,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+86,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+86,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+86,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+86,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+86,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+86,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+87,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+87,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+87,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+87,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+87,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+87,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+87,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+87,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+87,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+88,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+88,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+88,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+88,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+88,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+88,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+88,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+88,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+88,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+89,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+89,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+89,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+89,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+89,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+89,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+89,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+89,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+89,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+90,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+90,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+90,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+90,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+90,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+90,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+90,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+90,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+90,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+91,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+91,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+91,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+91,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+91,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+91,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+91,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+91,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+91,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+92,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+92,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+92,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+92,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+92,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+92,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+92,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+92,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+92,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+93,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+93,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+93,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+93,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+93,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+93,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+93,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+93,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+93,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+94,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+94,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+94,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+94,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+94,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+94,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+94,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+94,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+94,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+95,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+95,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+95,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+95,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+95,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+95,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+95,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+95,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+95,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+96,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+96,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+96,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,5
+96,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+96,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+96,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+96,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+96,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,4
+96,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+97,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+97,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+97,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+97,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+97,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+97,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+97,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+97,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+97,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+98,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+98,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+98,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+98,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+98,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+98,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,5
+98,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+98,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+98,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+99,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+99,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+99,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+99,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+99,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+99,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+99,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+99,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+99,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+100,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+100,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+100,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+100,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+100,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+100,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,5
+100,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+100,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+100,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+101,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+101,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+101,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+101,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+101,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+101,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+101,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+101,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+101,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,3
+102,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+102,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+102,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,5
+102,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+102,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+102,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+102,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+102,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+102,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+103,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+103,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+103,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+103,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+103,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+103,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+103,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+103,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+103,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+104,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+104,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+104,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+104,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+104,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+104,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+104,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+104,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+104,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+105,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+105,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+105,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+105,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+105,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+105,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+105,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+105,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+105,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+106,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+106,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+106,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+106,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+106,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+106,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+106,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+106,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+106,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+107,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+107,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+107,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+107,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+107,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+107,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+107,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+107,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+107,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+108,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+108,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+108,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+108,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+108,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+108,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+108,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+108,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+108,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+109,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+109,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+109,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+109,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+109,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+109,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+109,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+109,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+109,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+110,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+110,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+110,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+110,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+110,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+110,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+110,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+110,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+110,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+111,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,6
+111,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+111,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+111,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+111,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+111,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+111,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+111,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+111,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+112,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+112,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+112,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+112,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+112,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+112,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+112,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,5
+112,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+112,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+113,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+113,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+113,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+113,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+113,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+113,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+113,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+113,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+113,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+114,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+114,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+114,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+114,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+114,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+114,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+114,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+114,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+114,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,5
+115,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+115,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+115,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+115,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+115,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+115,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+115,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+115,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+115,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+116,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+116,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+116,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+116,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+116,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+116,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+116,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+116,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+116,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+117,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+117,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+117,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+117,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+117,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+117,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,8
+117,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+117,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+117,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+118,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+118,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+118,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,3
+118,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+118,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+118,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+118,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+118,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+118,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+119,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+119,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+119,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+119,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+119,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+119,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+119,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+119,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+119,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+120,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+120,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+120,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+120,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+120,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+120,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+120,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+120,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,3
+120,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+121,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+121,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+121,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+121,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+121,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+121,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+121,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+121,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+121,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+122,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+122,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+122,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+122,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+122,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+122,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+122,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+122,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+122,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+123,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+123,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+123,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,4
+123,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+123,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+123,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+123,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+123,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+123,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+124,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+124,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+124,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+124,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+124,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+124,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+124,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+124,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+124,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+125,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+125,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+125,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+125,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+125,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+125,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+125,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+125,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+125,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+126,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+126,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+126,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+126,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+126,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+126,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,3
+126,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+126,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+126,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+127,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+127,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+127,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+127,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+127,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+127,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+127,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,1
+127,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+127,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+128,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+128,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+128,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+128,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+128,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+128,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+128,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+128,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+128,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+129,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+129,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+129,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+129,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+129,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,4
+129,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+129,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+129,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+129,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+130,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+130,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+130,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+130,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+130,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+130,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+130,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+130,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+130,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+131,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+131,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+131,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+131,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+131,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+131,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+131,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+131,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+131,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+132,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+132,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+132,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+132,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+132,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+132,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+132,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+132,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+132,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+133,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+133,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+133,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+133,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+133,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+133,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+133,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+133,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+133,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+134,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+134,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+134,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+134,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+134,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+134,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+134,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+134,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+134,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+135,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+135,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+135,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+135,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+135,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+135,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+135,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+135,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+135,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+136,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+136,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+136,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+136,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+136,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+136,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+136,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+136,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+136,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+137,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,1
+137,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+137,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+137,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+137,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+137,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+137,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+137,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+137,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+138,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+138,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+138,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+138,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+138,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+138,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+138,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+138,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+138,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+139,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+139,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+139,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+139,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+139,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+139,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+139,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+139,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+139,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+140,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+140,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+140,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+140,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+140,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+140,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+140,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+140,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+140,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+141,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+141,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+141,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+141,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+141,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+141,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+141,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+141,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+141,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+142,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+142,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+142,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+142,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+142,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+142,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+142,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+142,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+142,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+143,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+143,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+143,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+143,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+143,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+143,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+143,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+143,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+143,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+144,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+144,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+144,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+144,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+144,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+144,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+144,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+144,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+144,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+145,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+145,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+145,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+145,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+145,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+145,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+145,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+145,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+145,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+146,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+146,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+146,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+146,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+146,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+146,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+146,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+146,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+146,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+147,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+147,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+147,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,8
+147,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+147,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+147,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+147,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+147,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+147,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+148,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+148,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+148,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+148,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+148,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+148,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,2
+148,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+148,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+148,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+149,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+149,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+149,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+149,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+149,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+149,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+149,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+149,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+149,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,4
+150,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+150,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+150,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+150,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+150,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+150,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+150,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+150,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+150,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+151,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+151,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+151,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+151,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+151,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+151,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+151,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+151,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+151,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+152,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+152,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+152,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+152,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+152,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+152,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+152,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+152,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+152,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+153,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+153,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+153,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+153,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+153,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+153,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+153,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,5
+153,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+153,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+154,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+154,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+154,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+154,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+154,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+154,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+154,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+154,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+154,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+155,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+155,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+155,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+155,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+155,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+155,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+155,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+155,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+155,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,4
+156,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+156,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+156,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+156,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+156,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+156,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+156,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+156,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+156,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+157,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+157,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+157,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+157,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+157,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+157,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+157,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+157,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+157,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+158,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+158,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+158,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+158,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+158,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+158,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+158,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+158,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+158,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+159,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+159,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+159,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+159,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+159,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+159,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+159,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+159,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+159,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+160,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+160,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+160,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+160,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+160,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+160,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+160,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+160,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+160,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+161,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+161,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+161,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+161,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+161,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+161,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,4
+161,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+161,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+161,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+162,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+162,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+162,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+162,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+162,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+162,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+162,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+162,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+162,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+163,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+163,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+163,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+163,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+163,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+163,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+163,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+163,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+163,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+164,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+164,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+164,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+164,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+164,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+164,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+164,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+164,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+164,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+165,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+165,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+165,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+165,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+165,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+165,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+165,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+165,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+165,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+166,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+166,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+166,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+166,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+166,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+166,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+166,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+166,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+166,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+167,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+167,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+167,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+167,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+167,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+167,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+167,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+167,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+167,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+168,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+168,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+168,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+168,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+168,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+168,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+168,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+168,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+168,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+169,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+169,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+169,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+169,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+169,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+169,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+169,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+169,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+169,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+170,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+170,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+170,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+170,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+170,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+170,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+170,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+170,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,3
+170,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+171,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+171,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+171,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+171,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+171,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+171,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+171,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+171,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+171,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+172,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+172,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+172,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+172,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+172,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+172,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+172,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+172,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+172,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+173,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+173,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+173,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+173,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+173,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+173,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+173,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+173,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+173,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+174,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+174,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+174,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+174,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+174,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+174,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+174,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+174,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+174,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+175,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+175,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+175,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+175,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+175,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+175,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+175,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+175,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+175,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+176,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+176,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+176,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+176,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+176,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+176,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+176,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+176,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+176,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+177,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+177,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+177,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+177,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,5
+177,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+177,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+177,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+177,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+177,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+178,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+178,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+178,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+178,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+178,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+178,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+178,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+178,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+178,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+179,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+179,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+179,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+179,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+179,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+179,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+179,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+179,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+179,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+180,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+180,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+180,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+180,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+180,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+180,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,3
+180,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+180,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+180,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+181,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+181,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+181,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+181,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+181,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+181,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+181,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+181,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+181,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+182,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+182,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+182,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+182,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+182,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,5
+182,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+182,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+182,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+182,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+183,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+183,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+183,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+183,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+183,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+183,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+183,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+183,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+183,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+184,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+184,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+184,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+184,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+184,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+184,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+184,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+184,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+184,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+185,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+185,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+185,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+185,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+185,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+185,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+185,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+185,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+185,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+186,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+186,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+186,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+186,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+186,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+186,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+186,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+186,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+186,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+187,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+187,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+187,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+187,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+187,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+187,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+187,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,5
+187,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+187,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+188,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+188,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+188,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+188,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+188,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+188,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+188,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+188,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+188,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+189,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+189,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+189,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+189,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+189,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+189,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+189,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+189,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+189,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+190,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+190,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+190,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+190,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+190,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+190,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+190,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+190,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+190,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+191,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+191,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+191,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+191,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+191,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+191,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+191,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+191,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+191,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+192,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+192,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+192,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+192,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+192,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+192,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+192,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+192,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+192,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+193,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+193,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+193,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+193,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+193,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+193,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+193,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+193,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+193,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+194,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+194,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+194,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+194,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+194,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+194,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+194,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+194,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+194,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+195,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+195,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+195,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+195,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+195,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+195,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+195,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+195,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+195,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+196,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+196,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+196,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+196,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+196,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+196,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+196,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+196,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+196,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+197,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+197,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+197,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+197,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+197,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+197,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+197,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+197,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+197,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+198,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+198,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+198,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+198,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+198,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+198,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+198,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+198,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+198,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+199,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+199,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+199,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+199,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+199,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+199,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+199,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+199,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+199,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+200,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+200,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+200,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+200,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+200,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+200,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+200,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+200,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+200,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+201,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+201,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+201,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+201,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+201,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+201,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+201,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+201,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+201,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+202,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+202,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+202,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+202,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+202,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+202,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+202,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+202,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+202,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+203,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+203,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+203,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+203,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+203,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+203,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+203,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+203,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+203,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+204,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+204,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+204,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+204,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+204,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+204,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+204,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+204,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+204,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+205,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+205,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+205,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+205,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+205,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+205,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+205,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+205,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+205,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+206,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+206,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+206,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+206,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+206,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+206,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+206,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+206,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+206,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+207,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+207,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+207,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+207,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,7
+207,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+207,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+207,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+207,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+207,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+208,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+208,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+208,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+208,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+208,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+208,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+208,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+208,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+208,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+209,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+209,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+209,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+209,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+209,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+209,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+209,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+209,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+209,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+210,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+210,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+210,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,6
+210,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+210,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+210,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+210,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+210,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+210,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+211,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+211,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+211,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+211,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+211,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+211,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+211,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,8
+211,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+211,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+212,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+212,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+212,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+212,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+212,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+212,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+212,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+212,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+212,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+213,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,1
+213,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+213,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+213,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+213,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+213,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+213,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+213,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+213,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+214,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+214,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+214,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+214,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+214,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+214,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+214,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+214,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+214,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+215,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+215,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+215,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+215,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+215,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+215,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+215,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+215,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+215,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+216,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+216,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+216,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+216,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+216,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+216,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+216,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+216,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+216,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+217,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+217,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+217,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+217,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+217,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+217,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+217,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+217,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+217,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+218,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+218,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+218,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+218,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+218,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+218,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+218,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+218,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+218,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+219,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+219,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+219,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+219,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+219,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+219,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+219,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+219,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+219,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+220,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+220,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+220,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+220,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+220,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+220,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+220,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+220,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+220,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+221,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+221,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+221,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+221,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+221,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,8
+221,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+221,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+221,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+221,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+222,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+222,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+222,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+222,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+222,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,2
+222,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+222,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+222,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+222,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+223,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+223,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+223,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+223,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+223,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+223,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+223,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+223,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+223,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+224,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+224,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+224,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+224,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+224,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+224,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+224,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,8
+224,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+224,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+225,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+225,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+225,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+225,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+225,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+225,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+225,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+225,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+225,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+226,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+226,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+226,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+226,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+226,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+226,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+226,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+226,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+226,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+227,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+227,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+227,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+227,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+227,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+227,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+227,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+227,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+227,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+228,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+228,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+228,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+228,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+228,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+228,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+228,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+228,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+228,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+229,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+229,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+229,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+229,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+229,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+229,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+229,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+229,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+229,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+230,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+230,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,7
+230,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+230,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+230,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+230,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+230,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+230,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+230,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+231,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+231,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+231,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+231,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+231,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+231,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+231,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+231,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+231,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+232,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+232,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+232,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+232,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+232,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+232,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+232,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+232,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+232,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+233,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+233,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+233,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+233,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+233,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+233,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+233,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+233,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+233,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+234,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+234,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+234,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+234,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+234,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+234,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+234,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+234,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+234,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+235,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+235,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+235,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+235,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+235,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,6
+235,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+235,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+235,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+235,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+236,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+236,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,3
+236,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+236,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+236,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+236,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+236,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+236,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+236,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+237,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+237,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+237,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+237,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+237,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+237,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+237,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+237,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+237,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+238,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+238,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+238,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+238,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+238,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+238,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+238,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+238,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+238,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+239,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+239,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+239,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+239,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+239,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+239,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+239,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+239,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+239,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+240,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+240,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+240,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+240,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+240,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+240,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+240,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+240,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+240,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,6
+241,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+241,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+241,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+241,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+241,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+241,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+241,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+241,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+241,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+242,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,7
+242,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+242,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+242,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+242,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+242,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+242,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+242,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+242,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+243,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+243,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+243,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+243,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+243,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+243,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+243,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+243,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+243,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+244,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+244,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+244,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+244,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+244,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+244,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+244,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+244,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+244,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+245,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+245,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+245,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+245,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+245,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,1
+245,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+245,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+245,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,4
+245,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+246,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+246,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+246,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+246,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+246,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+246,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+246,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+246,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,7
+246,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+247,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+247,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+247,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+247,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+247,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+247,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+247,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+247,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+247,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+248,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+248,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+248,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+248,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+248,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+248,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+248,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+248,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+248,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+249,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+249,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+249,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+249,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+249,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+249,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+249,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+249,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+249,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,5
+250,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+250,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+250,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+250,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+250,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+250,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+250,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+250,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+250,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+251,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+251,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+251,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+251,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+251,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+251,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+251,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+251,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+251,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+252,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+252,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+252,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+252,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+252,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+252,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+252,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+252,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+252,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+253,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+253,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+253,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+253,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+253,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+253,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+253,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+253,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+253,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+254,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+254,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+254,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+254,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,8
+254,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+254,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+254,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+254,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+254,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+255,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+255,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+255,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+255,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+255,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+255,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+255,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,2
+255,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+255,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+256,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+256,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+256,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+256,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+256,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+256,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+256,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+256,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+256,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+257,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,3
+257,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+257,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+257,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+257,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+257,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+257,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+257,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+257,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,8
+258,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+258,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+258,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+258,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+258,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+258,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+258,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,3
+258,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,2
+258,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+259,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+259,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+259,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+259,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+259,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+259,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+259,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+259,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+259,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+260,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+260,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+260,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+260,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+260,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+260,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+260,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+260,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+260,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+261,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+261,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+261,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,5
+261,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+261,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+261,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+261,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+261,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+261,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+262,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+262,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+262,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+262,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+262,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+262,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+262,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+262,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+262,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+263,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+263,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+263,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+263,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+263,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+263,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+263,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+263,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+263,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+264,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+264,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+264,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+264,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+264,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+264,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+264,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+264,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+264,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,7
+265,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+265,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+265,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+265,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+265,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+265,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+265,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+265,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+265,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+266,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+266,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+266,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+266,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+266,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+266,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+266,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+266,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+266,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+267,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+267,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+267,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+267,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+267,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+267,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+267,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+267,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+267,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+268,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,5
+268,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+268,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+268,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+268,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+268,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+268,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+268,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+268,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+269,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+269,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+269,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+269,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+269,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+269,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+269,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+269,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+269,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+270,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+270,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+270,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+270,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+270,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+270,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+270,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+270,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+270,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+271,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+271,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+271,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+271,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+271,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+271,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+271,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+271,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+271,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+272,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+272,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,9
+272,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,4
+272,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+272,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+272,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+272,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+272,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+272,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+273,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+273,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+273,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+273,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+273,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+273,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,5
+273,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+273,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+273,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,6
+274,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+274,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+274,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+274,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,7
+274,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+274,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+274,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+274,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+274,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+275,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+275,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+275,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+275,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+275,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+275,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+275,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+275,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+275,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+276,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+276,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+276,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,6
+276,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+276,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+276,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+276,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+276,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+276,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+277,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+277,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+277,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+277,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+277,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+277,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,2
+277,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+277,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+277,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+278,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+278,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+278,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+278,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,8
+278,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+278,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+278,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+278,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+278,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+279,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+279,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+279,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,3
+279,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+279,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+279,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+279,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,5
+279,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+279,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+280,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+280,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+280,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,1
+280,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,5
+280,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+280,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+280,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+280,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,8
+280,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+281,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+281,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+281,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,5
+281,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+281,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+281,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+281,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,8
+281,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+281,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+282,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+282,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+282,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+282,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+282,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,3
+282,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+282,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+282,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+282,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+283,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+283,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+283,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+283,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+283,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+283,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+283,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,8
+283,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+283,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+284,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+284,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+284,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+284,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+284,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,2
+284,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,4
+284,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+284,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+284,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+285,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+285,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
+285,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+285,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+285,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+285,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+285,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+285,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+285,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+286,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,4
+286,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+286,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+286,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+286,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+286,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+286,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+286,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,5
+286,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+287,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+287,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+287,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,5
+287,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+287,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,3
+287,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+287,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+287,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,5
+287,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+288,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+288,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,7
+288,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+288,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+288,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+288,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+288,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+288,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+288,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+289,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+289,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+289,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+289,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+289,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,6
+289,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+289,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+289,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+289,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+290,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+290,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+290,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+290,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+290,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,5
+290,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+290,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+290,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+290,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+291,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,1
+291,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+291,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+291,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,1
+291,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+291,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+291,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+291,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+291,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+292,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+292,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+292,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+292,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+292,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+292,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+292,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+292,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,3
+292,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+293,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+293,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+293,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+293,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+293,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+293,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+293,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,5
+293,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+293,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+294,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,3
+294,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+294,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+294,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+294,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+294,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+294,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+294,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+294,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+295,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+295,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,5
+295,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+295,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,4
+295,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+295,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,7
+295,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+295,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+295,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,6
+296,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+296,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+296,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,2
+296,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+296,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+296,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+296,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+296,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,8
+296,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+297,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,8
+297,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+297,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+297,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+297,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+297,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+297,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+297,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+297,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+298,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+298,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+298,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+298,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,7
+298,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,7
+298,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,6
+298,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,4
+298,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+298,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+299,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+299,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+299,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+299,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+299,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,6
+299,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+299,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+299,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,6
+299,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+300,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,4
+300,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,5
+300,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+300,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+300,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+300,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+300,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+300,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+300,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+301,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+301,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+301,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+301,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+301,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+301,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+301,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+301,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+301,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+302,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+302,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+302,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+302,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+302,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+302,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+302,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+302,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+302,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+303,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,4
+303,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+303,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,8
+303,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,9
+303,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+303,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+303,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+303,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+303,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+304,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+304,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+304,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+304,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+304,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+304,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+304,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+304,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+304,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,6
+305,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+305,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+305,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,4
+305,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+305,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+305,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+305,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+305,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+305,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,6
+306,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+306,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+306,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+306,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+306,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+306,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+306,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,5
+306,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+306,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,9
+307,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+307,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+307,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+307,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+307,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+307,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+307,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+307,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,3
+307,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+308,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+308,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+308,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+308,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+308,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+308,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,9
+308,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+308,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+308,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+309,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+309,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+309,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+309,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+309,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+309,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+309,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+309,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+309,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+310,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+310,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+310,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,6
+310,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+310,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,1
+310,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+310,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+310,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+310,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,5
+311,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,1
+311,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+311,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+311,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+311,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,5
+311,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,7
+311,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,7
+311,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,1
+311,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+312,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+312,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+312,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,5
+312,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+312,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+312,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+312,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,6
+312,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+312,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+313,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,8
+313,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,3
+313,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+313,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+313,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+313,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+313,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+313,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+313,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+314,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,3
+314,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+314,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+314,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,8
+314,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+314,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+314,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+314,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,4
+314,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,8
+315,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+315,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+315,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+315,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,8
+315,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+315,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+315,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+315,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+315,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+316,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+316,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+316,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,4
+316,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,2
+316,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+316,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+316,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+316,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+316,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+317,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+317,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+317,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+317,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,6
+317,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+317,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,3
+317,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+317,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+317,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+318,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+318,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+318,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+318,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+318,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,7
+318,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,6
+318,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+318,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,5
+318,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+319,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+319,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+319,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+319,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+319,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,4
+319,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+319,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+319,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+319,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+320,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+320,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+320,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+320,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+320,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+320,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+320,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+320,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+320,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,5
+321,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+321,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,7
+321,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+321,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+321,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+321,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+321,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+321,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,1
+321,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,5
+322,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+322,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+322,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,8
+322,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+322,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,6
+322,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,3
+322,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+322,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,5
+322,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+323,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,5
+323,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+323,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,7
+323,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+323,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+323,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,9
+323,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+323,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,4
+323,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+324,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+324,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+324,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+324,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,4
+324,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+324,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+324,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+324,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,2
+324,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+325,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+325,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,2
+325,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,3
+325,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+325,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,7
+325,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,9
+325,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+325,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,1
+325,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+326,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+326,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,3
+326,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+326,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+326,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+326,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+326,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+326,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,7
+326,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+327,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+327,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,6
+327,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,3
+327,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+327,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,6
+327,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+327,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,4
+327,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+327,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+328,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+328,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+328,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,2
+328,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+328,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,9
+328,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+328,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,7
+328,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,2
+328,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+329,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+329,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+329,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+329,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+329,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+329,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+329,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,4
+329,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+329,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,4
+330,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,3
+330,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+330,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,4
+330,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+330,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+330,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,3
+330,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+330,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+330,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+331,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,6
+331,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+331,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,4
+331,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+331,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,5
+331,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+331,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+331,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,9
+331,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,3
+332,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+332,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,8
+332,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+332,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+332,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,3
+332,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,8
+332,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,7
+332,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,3
+332,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+333,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,4
+333,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+333,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+333,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,5
+333,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,2
+333,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+333,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,3
+333,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,2
+333,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,7
+334,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,2
+334,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,4
+334,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+334,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,6
+334,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,3
+334,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,5
+334,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,6
+334,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,6
+334,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,9
+335,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+335,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+335,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+335,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+335,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+335,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,8
+335,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,4
+335,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+335,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+336,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+336,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+336,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+336,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,8
+336,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,9
+336,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+336,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+336,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+336,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+337,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+337,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,7
+337,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+337,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,8
+337,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+337,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,4
+337,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+337,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,5
+337,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+338,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+338,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,9
+338,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+338,Apple,Quad Core,16 GB,1024 GB,14 Inch,HD,No,7
+338,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,4
+338,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,5
+338,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,6
+338,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,7
+338,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,7
+339,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+339,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,1
+339,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+339,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,3
+339,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+339,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+339,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+339,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+339,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,8
+340,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+340,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,4
+340,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+340,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+340,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+340,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,3
+340,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,8
+340,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+340,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+341,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+341,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+341,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+341,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,3
+341,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+341,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,4
+341,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,1
+341,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+341,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+342,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+342,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,9
+342,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,1
+342,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,7
+342,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,2
+342,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+342,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,4
+342,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,5
+342,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+343,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,2
+343,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,9
+343,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,1
+343,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,7
+343,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,5
+343,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+343,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+343,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+343,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,6
+344,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,7
+344,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,7
+344,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,9
+344,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+344,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+344,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,9
+344,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,8
+344,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+344,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+345,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,8
+345,Lenovo,Quad Core,8 GB,512 GB,15.2 Inch,HD,Yes,6
+345,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,1
+345,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+345,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,7
+345,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,4
+345,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,4
+345,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,2
+345,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,3
+346,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+346,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+346,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,1
+346,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,6
+346,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,3
+346,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+346,Other,Dual Core,8 GB,512 GB,12 Inch,Normal,No,7
+346,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,2
+346,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,8
+347,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,2
+347,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,4
+347,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,7
+347,Asus,Dual Core,8 GB,256 GB,14 Inch,HD,Yes,4
+347,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+347,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,8
+347,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+347,Asus,Dual Core,16 GB,512 GB,14 Inch,HD,No,6
+347,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,6
+348,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+348,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,2
+348,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,1
+348,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,3
+348,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,5
+348,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,5
+348,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,9
+348,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+348,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,3
+349,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+349,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,2
+349,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,5
+349,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,8
+349,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,8
+349,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+349,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+349,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,8
+349,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,7
+350,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,2
+350,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,7
+350,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,5
+350,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,1
+350,Acer,Quad Core,16 GB,512 GB,14 Inch,Normal,Yes,4
+350,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+350,Other,Quad Core,16 GB,256 GB,12 Inch,Normal,No,6
+350,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+350,Lenovo,Dual Core,16 GB,1024 GB,14 Inch,Normal,No,6
+351,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,7
+351,Asus,Dual Core,4GB,256 GB,15.2 Inch,Normal,No,7
+351,Acer,Quad Core,8 GB,256 GB,14 Inch,HD,No,2
+351,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,5
+351,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,4
+351,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+351,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,2
+351,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,9
+351,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,6
+352,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,9
+352,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,6
+352,Lenovo,Dual Core,4GB,1024 GB,12 Inch,HD,Yes,9
+352,Apple,Quad Core,8 GB,256 GB,12 Inch,Normal,Yes,9
+352,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,3
+352,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,7
+352,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,7
+352,Apple,Dual Core,8 GB,512 GB,15.2 Inch,Normal,Yes,1
+352,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,8
+353,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,6
+353,Ethos,Quad Core,16 GB,512 GB,15.2 Inch,HD,No,3
+353,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,8
+353,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,1
+353,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,2
+353,Acer,Dual Core,4GB,512 GB,12 Inch,Normal,No,2
+353,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,9
+353,Ethos,Dual Core,8 GB,1024 GB,14 Inch,Normal,No,6
+353,Lenovo,Quad Core,4GB,512 GB,14 Inch,Normal,No,4
+354,Ethos,Quad Core,8 GB,512 GB,12 Inch,HD,No,7
+354,Ethos,Quad Core,4GB,1024 GB,15.2 Inch,Normal,Yes,4
+354,Other,Quad Core,8 GB,1024 GB,14 Inch,Normal,Yes,1
+354,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,9
+354,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+354,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,8
+354,Asus,Quad Core,4GB,512 GB,12 Inch,Normal,Yes,4
+354,Other,Dual Core,4GB,1024 GB,15.2 Inch,HD,No,9
+354,Acer,Dual Core,8 GB,1024 GB,15.2 Inch,HD,Yes,5
+355,Lenovo,Quad Core,16 GB,256 GB,15.2 Inch,Normal,Yes,4
+355,Other,Dual Core,16 GB,512 GB,15.2 Inch,HD,Yes,6
+355,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,1
+355,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,2
+355,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,2
+355,Ethos,Dual Core,4GB,256 GB,14 Inch,Normal,Yes,3
+355,Apple,Dual Core,4GB,512 GB,14 Inch,HD,Yes,8
+355,Apple,Dual Core,16 GB,256 GB,15.2 Inch,Normal,No,9
+355,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+356,Apple,Quad Core,4GB,1024 GB,12 Inch,HD,No,8
+356,Acer,Dual Core,16 GB,1024 GB,12 Inch,Normal,Yes,4
+356,Lenovo,Dual Core,8 GB,256 GB,12 Inch,HD,No,3
+356,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,9
+356,Asus,Quad Core,8 GB,1024 GB,15.2 Inch,Normal,No,6
+356,Other,Quad Core,4GB,256 GB,14 Inch,HD,Yes,2
+356,Ethos,Dual Core,16 GB,256 GB,12 Inch,HD,Yes,6
+356,Acer,Quad Core,4GB,256 GB,15.2 Inch,HD,No,8
+356,Asus,Quad Core,16 GB,1024 GB,12 Inch,HD,Yes,5
